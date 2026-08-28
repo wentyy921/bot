@@ -1,0 +1,28 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# Переменные окружения (токены, ключи)
+.env
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Базы данных
+*.sqlite3
+*.db
+
+# IDE / редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ОС
+Thumbs.db
+Desktop.ini
+.DS_Store
